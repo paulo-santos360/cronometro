@@ -26,5 +26,3 @@ Sinta-se à vontade para contribuir com melhorias ou recursos adicionais para es
 
 ## Aproveite o Tempo! ⌛
 Esperamos que você aproveite o Cronômetro.JS e o utilize para rastrear o tempo de forma eficaz em suas atividades. Explore as funcionalidades e descubra como ele pode ser um aliado valioso!
-
-Sinta-se à vontade para copiar e colar este modelo no seu README.md no GitHub e personalizar conforme necessário. Não se esqueça de substituir "seu-usuario" pelo seu nome de usuário ou organização no GitHub e adicionar o link direto para o vídeo do projeto em "URL_DO_SEU_VIDEO". ⏳👏
